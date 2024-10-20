@@ -1,4 +1,4 @@
- 
+ /* eslint-disable no-alert */
 import About from "./components/about";
 import ContactUs from "./components/contact";
 import Footer from "./components/footer";
